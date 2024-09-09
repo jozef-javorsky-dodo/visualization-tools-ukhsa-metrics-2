@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "📊 UKSHA Metrics 📈📉",
+  title: "📊 UKHSA Metrics 📈📉",
 
   description: "Visualization Tools: UKHSA metrics.",
 
