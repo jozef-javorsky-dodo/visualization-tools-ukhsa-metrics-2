@@ -8,18 +8,21 @@
   "dependencies": {
     "next": "latest",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1",
-    "@ant-design/icons": "^5.4.0",
-    "@antv/g2plot": "^2.4.32",
-    "@types/antd": "^1.0.0",
+    "@types/react": "^18.3.5",
+    "@types/react-dom": "^18.3.0",
     "antd": "^5.20.6",
     "axios": "^1.7.7",
-    "g2": "^2.3.13"
+    "g2": "^2.3.13",
+    "lighthouse": "^12.2.1",
+    "react-dom": "^18.3.1"
   },
   "devDependencies": {
     "@types/node": "20.10.8",
     "@types/react": "18.2.47",
     "@types/react-dom": "18.2.18",
-    "typescript": "^5.3.3"
+    "typescript": "^5.3.3",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.45",
+    "tailwindcss": "^3.4.10"
   }
 }
